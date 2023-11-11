@@ -49,6 +49,12 @@
 <a href="https://github.com/Mr-Saikiran/Reusable-GHA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=Reusable-GHA&theme=algolia" />
 </a>
+<a href="https://github.com/Mr-Saikiran/terraspace">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=terraspace&theme=algolia" />
+</a>
+<a href="https://github.com/Mr-Saikiran/awspy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=awspy&theme=algolia" />
+</a>
 <a href="https://github.com/Mr-Saikiran/API-Gateway-Automation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=API-Gateway-Automation&theme=algolia" />
 </a>
