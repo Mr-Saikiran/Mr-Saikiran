@@ -101,7 +101,7 @@
 ![Github Stats](https://github-readme-stats-mr-saikiran.vercel.app/api?username=Mr-Saikiran&rank_icon=github&theme=codeSTACKr&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&include_all_commits=false&custom_title=Github-Stats&card_width=800)
 
 <div align="left">
-<img src="https://github-readme-stats-mr-saikiran.vercel.app/api/top-langs/?username=Mr-Saikiran&size_weight=0&count_weight=1&theme=tokyonight&hide=html,ruby&layout=compact"/>
+<img src="https://github-readme-stats-mr-saikiran.vercel.app/api/top-langs/?username=Mr-Saikiran&size_weight=0&count_weight=1&theme=tokyonight&langs_count=10&layout=compact"/>
 <img src="https://streak-stats.demolab.com?user=Mr-Saikiran&theme=burnt-neon&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&theme=codestackr&card_width=500"/>
 </div>
 
